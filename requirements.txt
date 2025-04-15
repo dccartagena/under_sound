@@ -1,0 +1,12 @@
+librosa
+soundfile
+pydub
+audioread
+scipy
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn
+ipython
+notebook
